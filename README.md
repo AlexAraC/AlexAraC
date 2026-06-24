@@ -2,11 +2,15 @@
 
 ## About Me
 
-I aspire to become a professional software developer and, hopefully, a great one. I have been passionate about software and technology since my teenage years, and the opportunity to make a living doing something I truly enjoy is incredibly motivating to me.
+I'm an aspiring software developer with a strong passion for technology and problem-solving.
 
-That passion drives me to keep learning every day. Regardless of how much energy I have, I always strive to improve my skills, expand my knowledge, and become a better developer than I was yesterday.
+My interest in software started during my teenage years, and since then I've been fascinated by the idea of building solutions through code. What motivates me the most is the opportunity to continuously learn, improve, and create projects that can make a real impact.
 
-My goal is to build meaningful projects, continuously grow as a programmer, and become a valuable professional in the software industry.
+I believe that becoming a great developer is a journey of constant growth. That's why I dedicate time every day to learning new technologies, strengthening my skills, and challenging myself with new ideas and projects.
+
+Currently, I'm focused on web development and expanding my knowledge of modern software technologies.
+
+Welcome to my GitHub profile, where I document my learning journey and share the projects I build along the way.
 
 ---
 
